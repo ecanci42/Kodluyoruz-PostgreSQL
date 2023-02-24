@@ -11,6 +11,10 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) PostgreSQL eğitimi 
 
 ###### [2. Ödevin Cevapları](https://github.com/ecanci42/Kodluyoruz-PostgreSQL/blob/main/sqlodev2.txt)
 
+###### 3. Ödev Soruları
+![](https://github.com/ecanci42/Kodluyoruz-PostgreSQL/blob/main/odev3sorular.jpg)
+
+###### [3. Ödevin Cevapları](https://github.com/ecanci42/Kodluyoruz-PostgreSQL/blob/main/sqlodev3.txt)
 
 ###### [Örnek Veri Tabanı:](https://github.com/ecanci42/Kodluyoruz-PostgreSQL/tree/main/Ornek%20Veri%20Tabani)
 
